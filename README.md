@@ -29,7 +29,7 @@ on <a href="https://github.com/wcdolphin/flask-headers">Github</a>'''
 
 ```
 
-For a full list of options, please see the full [documentation](http://flask-headers.readthedocs.org/en/latest/)
+For a full list of options, please see the full  [documentation](http://flask-headers.readthedocs.org/en/latest/)
 
 
 ## Tests
